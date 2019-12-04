@@ -1,0 +1,168 @@
+#tlo {
+    background-color: white;
+}
+#red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+#kolo1 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: pink;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#blue {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    top: 10px;
+    left: 220px;
+}
+#kolo2 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: gray;
+    border-width: 10px;
+    border: black;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#green {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    top: 10px;
+    left: 430px;
+}
+#kolo3 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: purple;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#yellow {
+    height: 200px;
+    width: 200px;
+    background: yellow;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+}
+#kolo4 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: green;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#black {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    left: 220px;
+    top: 220px;
+}
+#kolo5 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: red;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#orange {
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    position: absolute;
+    left: 430px;
+    top: 220px;
+}
+#kolo6 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: blue;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#purple {
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    position: absolute;
+    top: 430px;
+    left: 10px;
+}
+#kolo7 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: orange;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#grey {
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    position: absolute;
+    top: 430px;
+    left: 220px;
+}
+#kolo8 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: yellow;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+#pink {
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+    position: absolute;
+    top: 430px;
+    left: 430px;
+}
+#kolo9 {
+    width:100px;
+    height: 100px;
+    border-radius: 75%;
+    background-color: black;
+    margin: 50px auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
